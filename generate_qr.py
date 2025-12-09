@@ -1,7 +1,7 @@
 import qrcode
 import json
 
-USERNAME = "your-github-username"
+USERNAME = "memrmohit"
 REPO = "ssd-verify"
 
 with open("products.json") as f:
